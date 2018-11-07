@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Adivinha o Número</string>
+    <string name="titulo_textview">Adivinhe o número!</string>
+    <string name="default_tentativas_textview">0</string>
+    <string name="hint_numero_edittext">Digite um número!</string>
+    <string name="tentar_button">Tentar</string>
+    <string name="resetar_button">Começar de novo</string>
+    <string name="dificuldade_1_radiobutton">Fácil (0 – 100)</string>
+    <string name="dificuldade_2_radiobutton">Médio (0 – 500)</string>
+    <string name="dificuldade_3_radiobutton">Díficil (0 – 1000)</string>
+    <string name="feedback_maior_textview">O número é <b>maior</b>!</string>
+    <string name="feedback_menor_textview">O número é <b>menor</b>!</string>
+    <string name="feedback_acertou">Você acertou em ${value} tentativa(s)\nAgora aumente a dificuldade!</string>
+</resources>
